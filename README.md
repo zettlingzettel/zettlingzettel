@@ -34,8 +34,7 @@ My main goal is to improve world well-being. (e.g. with the help of FAIR Data Pr
 
 <div width="100%" align="center"><a href="https://github.com/zettlingzettel/your-fair-potential" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zettlingzettel&repo=your-fair-potential&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-
-
+<br /><br /><br /><br /><br /><br /><br />
 
 ### My contributions
 
