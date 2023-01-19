@@ -18,28 +18,9 @@ Currently working on creating one.
 
 ### Skills
 
-<a onclick='window.open("https://developer.mozilla.org/en-US/docs/Web/JavaScript", "");'>Javascript</a>
-
-
-<a onclick="JavaScript()">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</a>
-
-<a target="_self" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
-
-
-<a target="_top" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
-
-
-<a onclick='window.open("https://developer.mozilla.org/en-US/docs/Web/JavaScript", "");'><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-
-<p align="left">
-<a target="frameName" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
-
-<p align="left">
-<a target="_tab" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
-
 Frontend:
+<p align="left">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
