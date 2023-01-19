@@ -39,14 +39,11 @@ My main goal is to improve world well-being. (e.g. with the help of FAIR Data Pr
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/zettlingzettel/your-fair-potential" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zettlingzettel&repo=your-fair-potential&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
 
-<br /><br /><br /><br /><br /><br /><br />
 
 ### My contributions
 
-<div width="100%" align="center"><a href="https://github.com/abezxodus/group-project-3-mama" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abezxodus&repo=group-project-3-mama&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[MAMA Award](https://github.com/abezxodus/group-project-3-mama)
 
 
-
-<br /><br /><br /><br /><br /><br /><br />
