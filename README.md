@@ -3,9 +3,9 @@ Hi 👋 My name is Anna Smolenova
 
 Full stack web developer apprentice
 -----------------------------------
-* Eager to learn new skills and passionate about leveraging my abilities to improve the world's well-being through technologies and programming.
-* Strongly believe in the power of innovation to drive positive change.
-* Value the significance of open communication and teamwork.
+Eager to learn new skills and passionate about leveraging my abilities to improve the world's well-being through technologies and programming. <br/>
+Strongly believe in the power of innovation to drive positive change. </br>
+Value the significance of open communication and teamwork.<br/>
 
 * 👨🏻‍💻 I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
 * 🤝 I'm open to collaborating on Ruby on Rails and React.js projects.
