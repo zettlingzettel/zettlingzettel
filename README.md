@@ -68,7 +68,7 @@ Statistics & Research:
 <a href="https://www.linkedin.com/in/anna-smolenova/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> 
 
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Profile" /></a> 
+<a href="https://dev.to/zettlingzettel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Profile" /></a> 
 
 
 ### Top Repositories
