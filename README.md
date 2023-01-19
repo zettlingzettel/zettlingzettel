@@ -23,8 +23,7 @@ Currently working on creating one.
 
 ### Studying
 
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3" /></a>
-
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3" /></a> 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="D3" /></a>
 
 
