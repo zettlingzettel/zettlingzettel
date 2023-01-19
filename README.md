@@ -47,11 +47,12 @@ Currently working on creating one.
 
 ### Top Repositories
 
-[Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
-
+GitHub: [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
+Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
+<i>Currently takes some time to download the deployed version</i>
 
 ### My contributions
 
-[MAMA Award](https://github.com/abezxodus/group-project-3-mama)
+GitHub: [MAMA Awards](https://github.com/abezxodus/group-project-3-mama)
 
 
