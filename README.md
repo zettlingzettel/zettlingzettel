@@ -17,6 +17,10 @@ Currently working on creating one.
 
 
 ### Skills
+
+<a onclick='window.open("https://developer.mozilla.org/en-US/docs/Web/JavaScript", "");'>Javascript</a>
+
+
 <a onclick="JavaScript()">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </a>
@@ -76,10 +80,3 @@ Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
 ### My contributions
 
 GitHub: [MAMA Awards](https://github.com/abezxodus/group-project-3-mama)
-
- <script>
-        function JavaScript() {
-          window.open("https://developer.mozilla.org/en-US/docs/Web/JavaScript", 
-          "");
-        }
-    </script>
