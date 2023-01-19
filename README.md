@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Smolenova
+Hi 👋 My name is Anna Smolenova
 ======================================================================================================================================
 
 Full stack web developer apprentice
@@ -6,15 +6,16 @@ Full stack web developer apprentice
 
 My main goal is to improve world well-being. (e.g. with the help of FAIR Data Principles (data should be Findable, Accessible, Interoperable, and Reusable)). I'm sure that with the help of technologies and programming I'll be able to improve someone's well-being.
 
-* 👨🏻‍💻   I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
-* 🤝  I'm open to collaborating on Ruby on Rails and React.js projects.
-* 🌱  I'm currently learning about: UX/UI design, AWS, D3, SEO, DevOps, OWASP top 10
-* I'm planning on studying: NodeJS, Express, Typescript, Redux, MongoDB, GraphQL, React Native, Containers
+* 👨🏻‍💻 I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
+* 🤝 I'm open to collaborating on Ruby on Rails and React.js projects.
+* 🌱 I'm currently learning about: UX/UI design, AWS, D3, SEO, DevOps, OWASP top 10
+* 📝 I'm planning on studying: NodeJS, Express, Typescript, Redux, MongoDB, GraphQL, React Native, Containers
 
 ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+
 
 
 
