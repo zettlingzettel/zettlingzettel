@@ -48,7 +48,9 @@ Currently working on creating one.
 ### Top Repositories
 
 GitHub: [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
+
 Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
+
 <i>Currently takes some time to download the deployed version</i>
 
 ### My contributions
