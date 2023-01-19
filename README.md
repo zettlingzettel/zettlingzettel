@@ -8,12 +8,14 @@ My main goal is to improve world well-being. (e.g. with the help of FAIR Data Pr
 
 * 👨🏻‍💻   I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
 * 🤝  I'm open to collaborating on Ruby on Rails and React.js projects.
-* 🌱  I'm currently learning about UX/UI design, AWS, D3, SEO, DevOps, OWASP top 10
+* 🌱  I'm currently learning about: UX/UI design, AWS, D3, SEO, DevOps, OWASP top 10
+* I'm planning on studying: NodeJS, Express, Typescript, Redux, MongoDB, GraphQL, React Native, Containers
 
 ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+
 
 
 
