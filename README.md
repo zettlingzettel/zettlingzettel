@@ -3,8 +3,9 @@ Hi 👋 My name is Anna Smolenova
 
 Full stack web developer apprentice
 -----------------------------------
-
-My main goal is to improve world well-being. (e.g. with the help of FAIR Data Principles (data should be Findable, Accessible, Interoperable, and Reusable)). I'm sure that with the help of technologies and programming I'll be able to improve someone's well-being.
+* Eager to learn new skills and passionate about leveraging my abilities to improve the world's well-being through technologies and programming.
+* Strongly believe in the power of innovation to drive positive change.
+* Value the significance of open communication and teamwork.
 
 * 👨🏻‍💻 I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
 * 🤝 I'm open to collaborating on Ruby on Rails and React.js projects.
