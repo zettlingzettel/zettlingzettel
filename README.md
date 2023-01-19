@@ -19,7 +19,7 @@ Currently working on creating one.
 ### Skills
 
 <p align="left">
-<a href="#" rel="noopener noreferrer" onclick="window.open(this.href,'_blank');return false;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
+<a rel="noopener noreferrer" onclick="window.open(this.href,'_blank');return false;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
 
 <p align="left">
 <a target="_tab" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
