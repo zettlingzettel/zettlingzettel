@@ -17,7 +17,7 @@ Currently working on creating one.
 
 
 ### Skills
-<a onclick="window.open ('http://www.google.com', ''); return false" href="javascript:void(0);">google</a>
+<a onclick="window.open ('http://www.google.com', ''); return false">google</a>
 
 <a target="_self" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a></p>
 
