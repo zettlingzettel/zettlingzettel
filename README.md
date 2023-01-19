@@ -11,15 +11,26 @@ My main goal is to improve world well-being. (e.g. with the help of FAIR Data Pr
 * 🌱 I'm currently learning about: UX/UI design, AWS, D3, SEO, DevOps, OWASP top 10
 * 📝 I'm planning on studying: NodeJS, Express, Typescript, Redux, MongoDB, GraphQL, React Native, Containers
 
+### My Portfolio
+Currently working on creating one.
+
+
 ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
 
 
+### Studying
+<p align="left">
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3" /></a>
 
 
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="D3" /></a>
 
+
+### Change
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
