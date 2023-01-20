@@ -20,8 +20,6 @@ GitHub: [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potenti
 
 Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
 
-<i>Currently takes some time to download the deployed version</i>
-
 ### My contributions
 
 GitHub: [MAMA Awards](https://github.com/abezxodus/group-project-3-mama)
