@@ -13,7 +13,19 @@ Full stack web developer apprentice
 * 📝 I'm planning on studying: NodeJS, Express, Typescript, Redux, MongoDB, GraphQL, React Native, Containers
 
 ### My Portfolio
-Currently working on creating one.
+
+### Top Repositories
+
+GitHub: [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
+
+Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
+
+<i>Currently takes some time to download the deployed version</i>
+
+### My contributions
+
+GitHub: [MAMA Awards](https://github.com/abezxodus/group-project-3-mama)
+
 
 
 ### Skills
@@ -68,15 +80,3 @@ Statistics & Research:
 <a href="https://www.linkedin.com/in/anna-smolenova/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> 
 <a href="https://dev.to/zettlingzettel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Profile" /></a> 
 
-
-### Top Repositories
-
-GitHub: [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
-
-Deployed: [Your Fair Potential](https://breakable-toy-062r.onrender.com/)
-
-<i>Currently takes some time to download the deployed version</i>
-
-### My contributions
-
-GitHub: [MAMA Awards](https://github.com/abezxodus/group-project-3-mama)
