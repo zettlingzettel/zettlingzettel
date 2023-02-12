@@ -10,7 +10,7 @@ Full stack web developer apprentice
 * 👨🏻‍💻 I'm currently working on [Your Fair Potential](http://github.com/zettlingzettel/your-fair-potential)
 * 🤝 I'm open to collaborating on Ruby on Rails and React.js projects.
 * 🌱 I'm currently studying: Python, Frontend Frameworks (Styled-Components, Bootstrap, Tailwind, jQuery), UX/UI design <br />
-[Here you can see my progress (challenge 100 days of coding](https://github.com/zettlingzettel/100-days-of-code)
+_Here you can see my progress:_ [challenge 100 days of coding](https://github.com/zettlingzettel/100-days-of-code)
 * 📝 I'm planning on studying: Typescript, Redux, GraphQL, SEO, AWS, D3,  DevOps, OWASP top 10
 * I might study: NodeJS, Express, MongoDB, , React Native
 
