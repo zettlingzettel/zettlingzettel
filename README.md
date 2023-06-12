@@ -1,4 +1,4 @@
-Hi 👋 My name is Anna Smolenova
+Hi 👋 My name is Anna
 ======================================================================================================================================
 
 Full stack web developer apprentice
