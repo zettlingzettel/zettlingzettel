@@ -75,8 +75,5 @@ Statistics & Research:
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/D3.js-%23f9a03c.svg?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3" /></a> 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="D3" /></a>
 
-### Socials
-<a href="https://www.github.com/zettlingzettel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a> 
-<a href="https://www.linkedin.com/in/anna-smolenova/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> 
-<a href="https://dev.to/zettlingzettel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo Profile" /></a> 
+
 
