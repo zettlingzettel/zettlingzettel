@@ -25,6 +25,4 @@ Featured Projects:
   <span>Registered on Aug 02, 2025</span>
 </p>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zettlingzettel&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20&size_weight=0&count_weight=1&exclude_repo=dotfiles" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zettlingzettel&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
