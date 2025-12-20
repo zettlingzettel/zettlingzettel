@@ -20,10 +20,7 @@ BSc Linguistics (2015-2019)
 [Keyword Analysis of AppStore Review](https://github.com/zettlingzettel/UX-Reviews-AppStore)
 <br />
 
-## Work in progress:
-[Screenshot Analyzer](https://github.com/zettlingzettel/screenshots)
-<br />
-<br />
+
 ## Account Statistics:
 
 <p align='left'>
