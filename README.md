@@ -13,9 +13,9 @@ BSc Linguistics (2015-2019)
 
 [The relationsip among Personality characteristics, basic human values and pro-enviornmental behavior](https://github.com/zettlingzettel/PEB)
 <br />
-[Collocation & Bigram Mining from Wikipidea for Semantic Pattern Discovery](https://github.com/zettlingzettel/Wiki-NLP)
+[Testing Social Psychology Theories Using World Values Survey Data: A Data Analysis & Visualization Study](https://github.com/zettlingzettel/wvs_data_viz_analysis)
 <br />
-[News Article Classification: Health & Wellness](https://github.com/zettlingzettel/News-Classification)
+[Collocation & Bigram Mining from Wikipidea for Semantic Pattern Discovery](https://github.com/zettlingzettel/Wiki-NLP)
 <br />
 [Keyword Analysis of AppStore Review](https://github.com/zettlingzettel/UX-Reviews-AppStore)
 <br />
