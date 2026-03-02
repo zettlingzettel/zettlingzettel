@@ -32,5 +32,3 @@ BSc Linguistics (2015-2019)
 
  
 </p>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zettlingzettel&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
